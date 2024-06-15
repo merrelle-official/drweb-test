@@ -13,6 +13,10 @@
     color: inherit;
 }
 
+html {
+    scroll-behavior: smooth;
+}
+
 .button{
     padding: 15px 32px;
     background-color: #69B42E;
